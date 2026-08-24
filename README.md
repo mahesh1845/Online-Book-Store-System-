@@ -133,7 +133,7 @@ Use SQL queries to retrieve and manage information from the database.
 Online-Book-System/
 │
 ├── Online Book Store Management System Report
-├── Online Book Store System Code
+├── Online Book Store System.sql
 ├── Online Book Store System Table Screen Shot
 └── README.md
 ```
