@@ -132,10 +132,9 @@ Use SQL queries to retrieve and manage information from the database.
 ```text
 Online-Book-System/
 │
-├── database.sql
-├── tables.sql
-├── insert_data.sql
-├── queries.sql
+├── Online Book Store Management System Report
+├── Online Book Store System Code
+├── Online Book Store System Table Screen Shot
 └── README.md
 ```
 
